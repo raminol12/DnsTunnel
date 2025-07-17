@@ -13,7 +13,7 @@
 
 
 <!-- <p align="center">
-  <a href="https://youtu.be/QpYZnoYaTRc?si=11YCJNwi8bHGdWda">
+  <a href="https://youtu.be/eEwnQeHKOAk">
     🎥 مشاهده آموزش ویدیویی  
   </a>
 </p> -->
