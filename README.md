@@ -1,7 +1,7 @@
 <div dir="rtl">
 
-<!-- اگر لوگوی اختصاصی دارید اینجا قرار دهید -->
-<!-- ![UnblockedX](https://your-logo-link.com/logo.png) -->
+توسعه‌دهنده
+ساخته‌شده توسط IrSupp
 
 # UnblockedX DNS Tunnel
 
